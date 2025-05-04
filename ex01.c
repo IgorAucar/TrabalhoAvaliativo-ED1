@@ -1,7 +1,6 @@
 /*01 - Fazer um algoritmo que leia a nota de 10 alunos de uma disciplina. Calcule e
 escreva o número de alunos que tiveram notas superior à média da turma. */
 
-
 #include <stdio.h>
 
 int main(){
